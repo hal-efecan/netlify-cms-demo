@@ -1,5 +1,17 @@
 import React from "react"
 
-export default function Home() {
-  return <div>Hello world!</div>
+const Home = () => {
+  
+  return (
+    
+    <div>
+
+      <h1>Netlify CMS demo</h1>
+      <h2>Posts</h2>
+      
+    </div>
+
+  ) 
 }
+
+export default Home
